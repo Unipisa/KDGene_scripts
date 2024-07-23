@@ -1,0 +1,3 @@
+- notebook "operativo" che non venga sovrascritto da git pull
+- notebook/modulo con le funzioni che implementano le varie query
+--> data una lista di disease (omim o disgenet) e una lista di proteine e una soglia di punteggio, filtrare le associazioni sopra la soglia
